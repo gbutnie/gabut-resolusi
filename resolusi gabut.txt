@@ -2,3 +2,5 @@
   - belajar coding
   - perdalam html dan css
   - belajar php
+  - belajar javascript
+  - belajar framework dll
