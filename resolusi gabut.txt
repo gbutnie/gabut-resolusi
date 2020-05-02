@@ -1,6 +1,6 @@
   resolusi Gbut.in
-  - belajar coding
-  - perdalam html dan css
+  
+  belajar coding
   - belajar php
   - belajar javascript
-  - belajar framework dll
+  - belajar bootstrap
