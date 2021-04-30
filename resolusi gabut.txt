@@ -1,6 +1,0 @@
-  resolusi Gbut.in
-  
-  belajar coding
-  - belajar php
-  - belajar javascript
-  - belajar bootstrap
